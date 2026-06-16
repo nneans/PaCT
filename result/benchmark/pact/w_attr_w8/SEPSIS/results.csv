@@ -1,0 +1,8 @@
+dataset,prefix_mode,prefix_patch_size,fold,next_activity_accuracy,suffix_dl_similarity,remaining_time_mae_days,next_time_mae_days,n_test_cases,n_test_pairs,train_time_sec,inference_time_sec
+SEPSIS,w_attr,8,1,0.580283,0.438337,39.414481,10.636176,210,3114,96.826963,11.486014
+SEPSIS,w_attr,8,2,0.574760,0.436962,34.881532,7.501470,210,3130,95.430367,11.407979
+SEPSIS,w_attr,8,3,0.553881,0.339768,29.830949,4.621260,210,3118,95.558659,10.476640
+SEPSIS,w_attr,8,4,0.589619,0.402713,37.873781,8.661838,210,2890,98.010986,9.496195
+SEPSIS,w_attr,8,5,0.584065,0.373493,33.445934,8.002165,210,2962,90.456862,10.116367
+SEPSIS,w_attr,8,mean,0.576522,0.398255,35.089335,7.884582,,,,
+SEPSIS,w_attr,8,std,0.012315,0.037838,3.372079,1.948603,,,,

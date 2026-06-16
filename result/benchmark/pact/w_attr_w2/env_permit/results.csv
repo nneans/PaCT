@@ -1,0 +1,8 @@
+dataset,prefix_mode,prefix_patch_size,fold,next_activity_accuracy,suffix_dl_similarity,remaining_time_mae_days,next_time_mae_days,n_test_cases,n_test_pairs,train_time_sec,inference_time_sec
+env_permit,w_attr,2,1,0.840843,0.865431,3.103518,1.376794,287,1709,55.475453,0.416510
+env_permit,w_attr,2,2,0.856086,0.860999,3.302662,1.365182,287,1758,53.153744,0.397693
+env_permit,w_attr,2,3,0.863284,0.877835,4.374416,1.772909,287,1675,53.078278,0.401729
+env_permit,w_attr,2,4,0.827957,0.845948,4.804410,1.960860,287,1767,49.194736,0.444483
+env_permit,w_attr,2,5,0.863309,0.882687,3.385004,1.418032,286,1668,52.843469,0.377522
+env_permit,w_attr,2,mean,0.850296,0.866580,3.794002,1.578755,,,,
+env_permit,w_attr,2,std,0.013856,0.012994,0.669816,0.243283,,,,

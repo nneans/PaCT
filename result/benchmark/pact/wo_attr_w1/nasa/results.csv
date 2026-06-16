@@ -1,0 +1,8 @@
+dataset,prefix_mode,prefix_patch_size,fold,next_activity_accuracy,suffix_dl_similarity,remaining_time_mae_days,next_time_mae_days,n_test_cases,n_test_pairs,train_time_sec,inference_time_sec
+nasa,wo_attr,1,1,0.896179,0.492403,0.000000,0.000000,514,14602,377.415069,52.410747
+nasa,wo_attr,1,2,0.896647,0.478521,0.000000,0.000000,513,14910,373.195486,47.200707
+nasa,wo_attr,1,3,0.898260,0.496134,0.000000,0.000000,513,14714,365.375098,50.925915
+nasa,wo_attr,1,4,0.897944,0.490120,0.000000,0.000000,513,14688,486.890983,43.581095
+nasa,wo_attr,1,5,0.896631,0.492405,0.000000,0.000000,513,14724,376.909483,47.749325
+nasa,wo_attr,1,mean,0.897132,0.489917,0.000000,0.000000,,,,
+nasa,wo_attr,1,std,0.000816,0.006016,0.000000,0.000000,,,,

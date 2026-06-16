@@ -1,0 +1,42 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build artifacts
+build/
+dist/
+wheels/
+*.egg-info/
+
+# Virtual environments
+.venv/
+.env
+
+# Local/editor state
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Experiment caches and generated artifacts
+result/**
+!result/
+!result/benchmark/
+!result/benchmark/pact/
+!result/benchmark/pact/.gitkeep
+!result/benchmark/pact/**/
+!result/benchmark/pact/**/results.csv
+!result/cache/
+!result/cache/pact/
+!result/cache/pact/.gitkeep
+!result/figures/
+!result/figures/.gitkeep
+!result/figures/*.svg
+*.pt
+*.pth
+*.ckpt
+*.bak_*
+
+# Paper PDF
+*.pdf

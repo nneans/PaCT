@@ -1,0 +1,8 @@
+dataset,prefix_mode,prefix_patch_size,fold,next_activity_accuracy,suffix_dl_similarity,remaining_time_mae_days,next_time_mae_days,n_test_cases,n_test_pairs,train_time_sec,inference_time_sec
+Helpdesk,w_attr,8,1,0.846315,0.915838,5.269372,9.115860,916,4288,105.814081,0.756706
+Helpdesk,w_attr,8,2,0.851019,0.920252,5.216555,9.112109,916,4269,106.348502,0.697750
+Helpdesk,w_attr,8,3,0.849354,0.921860,5.074729,8.941562,916,4255,106.470488,0.690794
+Helpdesk,w_attr,8,4,0.852617,0.922639,5.165766,8.959155,916,4261,104.988345,0.706277
+Helpdesk,w_attr,8,5,0.850760,0.922425,5.174272,8.826261,916,4275,104.463641,0.688503
+Helpdesk,w_attr,8,mean,0.850013,0.920603,5.180139,8.990989,,,,
+Helpdesk,w_attr,8,std,0.002119,0.002525,0.064251,0.110322,,,,

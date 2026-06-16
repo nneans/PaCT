@@ -1,0 +1,23 @@
+[project]
+name = "pact"
+version = "0.1.0"
+description = "PaCT: Patch-Based Multi-Channel Transformer for Predictive Process Monitoring"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.9.0",
+    "numpy>=1.26.0",
+    "pm4py>=2.7.19.8",
+    "scikit-learn>=1.8.0",
+    "torch>=2.10.0",
+    "tqdm>=4.66.0",
+]
+
+
+[tool.uv.sources]
+torch = { index = "pytorch-cu126" }
+
+[[tool.uv.index]]
+name = "pytorch-cu126"
+url = "https://download.pytorch.org/whl/cu126"
+explicit = true

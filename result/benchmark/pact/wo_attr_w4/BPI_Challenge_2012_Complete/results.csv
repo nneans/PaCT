@@ -1,0 +1,8 @@
+dataset,prefix_mode,prefix_patch_size,fold,next_activity_accuracy,suffix_dl_similarity,remaining_time_mae_days,next_time_mae_days,n_test_cases,n_test_pairs,train_time_sec,inference_time_sec
+BPI_Challenge_2012_Complete,wo_attr,4,1,0.781606,0.285089,6.457217,1.393070,2618,32794,810.306337,217.729795
+BPI_Challenge_2012_Complete,wo_attr,4,2,0.783393,0.234640,6.977752,1.359010,2618,33083,821.115267,224.544766
+BPI_Challenge_2012_Complete,wo_attr,4,3,0.784770,0.227848,6.621697,1.380256,2617,33355,706.233126,226.257175
+BPI_Challenge_2012_Complete,wo_attr,4,4,0.783038,0.259412,6.593122,1.341554,2617,32273,681.968126,214.437165
+BPI_Challenge_2012_Complete,wo_attr,4,5,0.783461,0.232270,6.496224,1.365718,2617,33001,674.716525,222.280070
+BPI_Challenge_2012_Complete,wo_attr,4,mean,0.783254,0.247852,6.629202,1.367922,,,,
+BPI_Challenge_2012_Complete,wo_attr,4,std,0.001012,0.021623,0.184449,0.017687,,,,
